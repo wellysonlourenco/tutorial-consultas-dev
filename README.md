@@ -25,6 +25,8 @@
 - [Shadow Palette](joshwcomeau.com/shadowpalette) - Gerador de sombras. <br> 
 
 
+## ⚙️ Ferramentas para desenvolvimento:
+- [DevDocs](https://devdocs.io/) - DevDocs combina várias documentações de API em uma interface rápida, organizada e pesquisável. <br>
 
 # Tutorial-github-bash
 Comandos e como Funciona o Github-bash
