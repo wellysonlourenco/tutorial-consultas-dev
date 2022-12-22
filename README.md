@@ -1,2 +1,25 @@
-# reposit-rios-dev
-Ferramentas de auxilio no desenvolvimento
+## 🪡 Geradores de CSS :rocket:	
+> Geradores de CSS para o seu projeto.
+- [UI Verse](https://uiverse.io/) - Gerador de buttons, checkboxes, toggle switches, cards, loaders, inputs. <br>
+- [Neumorphism](https://neumorphism.io/) - Tendência aplicação border-radius <br>
+- [Fancy Border-Radius](https://9elements.github.io/fancy-border-radius/) - Gerador de formas com border-radius no CSS <br>
+- [WAIT! Animate](https://waitanimate.wstone.io) - Gerador de animações de CSS <br>
+- [Best CSS Button Generator](https://www.bestcssbuttongenerator.com) - Gerador de botões do CSS <br>
+- [HTML CSS JS Generator](https://html-css-js.com/css/generator/) - Gerador de HTML/CSS/JS <br>
+- [BennettFeely](https://bennettfeely.com/clippy/) - Criador de clip-path <br>
+- [Animista](https://animista.net) - Criador de animações <br>
+- [Layoutit](https://grid.layoutit.com/) - Gerador de Grid para CSS <br>
+- [CSS Gradient](cssgradient.io) - Gerador de gradientes <br>
+- [Keyframes](keyframes.app) - Site ajuda você a criar animações keyframes básica e complexas <br>
+- [Glassmorphism](css.glass) - Site é usado para criar estética de vidro e gerar código CSS <br>
+- [SVG Wave Generator](getwaves.io) - Um gerador de ondas SVG gratuito <br>
+- [Bob SVG Generator](blobmaker.app) - Site para criar formas SVG aleatórias, únicas e orgânicas <br>
+- [Cubic Bezier](https://cubic-bezier.com/) - Ferramenta para Cubic-bezier() <br>
+- [Shadow Generator](https://shadows.brumm.af/) - Gerador de sombras <br>
+- [Glassmorphism CSS Generator](https://ui.glass/generator/) - Gerador de glassmorphism <br>
+- [Grabient](grabient.com) - Gerador de gradientes <br>
+- [Box Shadow](cssmatic.com/box-shadow) - Gerador de box-shadow <br> 
+- [Box Shadows Dev](box-shadow.dev) - Gerador de box-shadow <br> 
+- [Drop Shadow](webcode.tools/generatores/css/dropshadow) - Gerador de drop-shadow <br> 
+- [CSS Bud](cssbud.com/css-generator/css-box-shadow-generator/) - Gerador de box-shadow  <br> 
+- [Shadow Palette](joshwcomeau.com/shadowpalette) - Gerador de sombras. <br> 
